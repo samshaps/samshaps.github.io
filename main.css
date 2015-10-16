@@ -1,0 +1,65 @@
+.pure-menu-heading {
+    color: white;
+}
+
+.home-menu {
+    background: #FFFFFF;
+    padding: 0.5em;
+    text-align: left;
+    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
+}
+
+.center-class {
+    width: 520px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+.pure-menu-horizontal {
+    white-space: nowrap;
+    background-color: #B2DFDB;
+}
+
+.pure-menu-list {
+    text-align: right;
+}
+
+.pure-menu-link {
+    text-align: bottom;
+    display: inline-block;
+}
+
+.pure-menu-fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.pure-menu-heading {
+    padding: 0.5em 0em 0.5em 0em !important;
+    font-size: 1.05em;
+}
+
+.main-block {
+    padding-top: 120px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    max-width: 500px;
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.01em;
+    line-height: 150%;
+}
+
+li {
+    display:inline;
+}
+
+#right {
+    float:right;
+}
