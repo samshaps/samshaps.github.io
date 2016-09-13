@@ -1,5 +1,5 @@
 .pure-menu-heading {
-    color: #777;
+    color: #000;
 }
 
 .home-menu {
@@ -17,8 +17,10 @@
 
 .pure-menu-horizontal {
     white-space: nowrap;
-    background-color: #B2DFDB;
+    background-color: #a1caf1;
     width: 100%;
+    font-size: 1.25em;
+
 }
 
 .pure-menu-list {
@@ -26,6 +28,7 @@
 }
 
 .pure-menu-link {
+    color: #000;
     text-align: bottom;
     display: inline-block;
 }
