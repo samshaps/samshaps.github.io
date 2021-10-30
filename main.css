@@ -30,7 +30,7 @@
 .pure-menu-heading {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
-    padding-right: 13em /* controls space btwn elements */
+    padding-right: 13em
 
 
 }
@@ -63,10 +63,20 @@
     width: 32px;
     display:inline-block;
     font-size: 1.25em;
+    hover: background-color: white
 }
 
+.fa-linkedin:hover{
+	color:white
+}
 
+.fa-twitter:hover{
+	color:white
+}
 
+.fa-medium:hover{
+	color:white
+}
 
 p {
     font-family: 'Roboto', sans-serif;
@@ -82,5 +92,6 @@ li {
 #right {
     float:right;
 }
+
 
 
